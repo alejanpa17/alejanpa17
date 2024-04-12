@@ -5,10 +5,11 @@
 
 <h2> 👋 About Me </h2>
 
-- 🏢 Member of [MAD Formula Team](https://www.madformulateam.com/)
+- 🏢 Alumni Member of [MAD Formula Team](https://www.madformulateam.com/)
 - 🎓 Erasmus+ exchange student at [Technische Universität München](https://www.cit.tum.de/cit/studium/internationales/informatics-incoming/)
 - 🎓 MSc Informatics Engineering at [University Carlos III of Madrid](https://www.uc3m.es/master/informatics-engineering)
 - 🎓 BSc Computer Science and Engineering at [University Carlos III of Madrid](https://www.uc3m.es/bachelor-degree/computer-science)
+- 📸 I have a YouTube channel where I help people fix their film cameras [@AlejanPa](https://www.youtube.com/@AlejanPa)
 - 🏡 Living in Munich
 
 
